@@ -27,7 +27,7 @@ onUnmounted(() => {
       <router-link class="navbar-brand" to="/">
         📰 NewSphere
       </router-link>
-      <p class="navbar-motto">Capturing the heartbeat of the latest news 🔥</p>
+      <p class="navbar-motto">Capturing the heartbeat of the latest news !!!🔥</p>
       <button
         class="navbar-toggler"
         type="button"
