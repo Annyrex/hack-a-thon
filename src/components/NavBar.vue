@@ -25,7 +25,7 @@ onUnmounted(() => {
   <nav :class="['navbar', 'navbar-expand-lg', 'navbar-light', 'mb-4', 'fixed-top', { 'd-none': !isNavbarVisible }]">
     <div class="container-fluid ">
       <router-link class="navbar-brand" to="/">
-        📰 NEWSPULSE
+        📰 NewSphere
       </router-link>
       <p class="navbar-motto">Capturing the heartbeat of the latest news 🔥</p>
       <button

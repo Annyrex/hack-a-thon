@@ -1,7 +1,9 @@
 <template>
   <div>
     <NavBar />
+   
     <div class="container mt-4">
+
       <router-view />
     </div>
 
@@ -14,11 +16,15 @@
       ↑
     </button>
   </div>
+    <div>
+     <Footer />
+    </div>
 </template>
 
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
 import NavBar from './components/NavBar.vue'
+import Footer from './components/Footer.vue'
 
 const showBackToTop = ref(false)
 
