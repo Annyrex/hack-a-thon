@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-dark text-light py-4 mt-auto">
-    <div class="container">
+    <div class="container mt-5">
       <div class="row">
         <div class="col-md-4 mb-3">
           <h5>{{ appName }}</h5>

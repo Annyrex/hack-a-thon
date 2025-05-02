@@ -34,7 +34,7 @@ function handleSubmit(e) {
 </script>
 
 <template>
-  <div class="container mt-5">
+  <div class="container mt-5 mb-5">
     <h2>Contact Us</h2>
     <p>Have a question or want to advertise with us? Fill out the form below!</p>
 
